@@ -63,8 +63,27 @@ blending_weights:{'lgbm': 0.436, 'catboost': 0.253, 'svr': 0.311}
 ### LB
 > 0.5780
 
+## Feature 6 3 + 4
 
+### CV
+Composition OOF score = 0.60742
+Composition best W = 0.505
+current_RMSE:0.6122198260314985
+blending_weights:{'lgbm': 0.521, 'catboost': 0.223, 'svr': 0.256}
+### LB
+0.578
 
+## Feature 4 + 7
+
+### CV
+
+### LB
+
+## Feature 4 + 8
+
+### CV
+
+### LB
 
 ## Feature
 
