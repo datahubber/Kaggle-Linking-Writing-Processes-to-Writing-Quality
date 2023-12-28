@@ -97,13 +97,15 @@ blending_weights:{'lgbm': 0.434, 'catboost': 0.305, 'svr': 0.261}
 ## Feature 4 + 10
 
 ### CV
-
+current_RMSE:0.6130396836008632
+blending_weights:{'lgbm': 0.453, 'catboost': 0.277, 'svr': 0.27}
 ### LB
 
 ## Feature 4 + 11
 
 ### CV
-
+current_RMSE:0.6117052130602196
+blending_weights:{'lgbm': 0.377, 'catboost': 0.361, 'svr': 0.262}
 ### LB
 
 ## Feature
