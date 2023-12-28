@@ -76,10 +76,31 @@ blending_weights:{'lgbm': 0.521, 'catboost': 0.223, 'svr': 0.256}
 ## Feature 4 + 7
 
 ### CV
-
+current_RMSE:0.6134721235494489
+blending_weights:{'lgbm': 0.472, 'catboost': 0.247, 'svr': 0.281}
 ### LB
 
 ## Feature 4 + 8
+
+### CV
+current_RMSE:0.612013548583005
+blending_weights:{'lgbm': 0.477, 'catboost': 0.275, 'svr': 0.248}
+### LB
+
+## Feature 4 + 9
+
+### CV
+current_RMSE:0.6118376863066016
+blending_weights:{'lgbm': 0.434, 'catboost': 0.305, 'svr': 0.261}
+### LB
+
+## Feature 4 + 10
+
+### CV
+
+### LB
+
+## Feature 4 + 11
 
 ### CV
 
