@@ -9,6 +9,24 @@ blending_weights:{'lgbm': 0.459, 'catboost': 0.246, 'svr': 0.295}
 ### LB:
 0.5784x ?
 
+5. 2 + 3 + 4 
+
+6. 3 + 4 
+
+7. Text_change_nunique / event_id_max/up_time_max/action_time_sum 
+
+8. Activity_nunique/Event_id_max / action_time_sum 
+
+9. 10% - 90% 
+
+10. Word_count_max / action_time_sum  
+
+11. Down_event_nunique / up_time_max 
+
+12. Sent_len_sum ratio
+
+13. down_event_8_count/down_event_3_count / up_time_max/event_id_max
+
 ## Feature 1 reduce sentences separation
 delete '|\\?|\\!':
 delete ', '_', '+'' 3 times:
@@ -106,6 +124,18 @@ blending_weights:{'lgbm': 0.453, 'catboost': 0.277, 'svr': 0.27}
 ### CV
 current_RMSE:0.6117052130602196
 blending_weights:{'lgbm': 0.377, 'catboost': 0.361, 'svr': 0.262}
+### LB
+
+## Feature
+
+### CV
+
+### LB
+
+## Feature
+
+### CV
+
 ### LB
 
 ## Feature
